@@ -30,8 +30,7 @@ html, body {
 }
 
 /*CARRUSEL*/
-.carrusel{
-	align-self: center;
+.carousel-propio{
 	height: 30vh;
 
 }
